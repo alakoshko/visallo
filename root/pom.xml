@@ -57,7 +57,7 @@
         <commons.cli.version>1.2</commons.cli.version>
         <jcommander.version>1.47</jcommander.version>
         <commons.codec.version>1.8</commons.codec.version>
-        <commons.compress.version>1.11</commons.compress.version>
+        <commons.compress.version>1.19</commons.compress.version>
         <commons.io.version>2.4</commons.io.version>
         <commons.lang.version>2.5</commons.lang.version>
         <commons.lang3.version>3.4</commons.lang3.version>
